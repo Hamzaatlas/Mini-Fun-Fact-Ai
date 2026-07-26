@@ -16,6 +16,10 @@ An ESP32-powered hardware companion that fetches and dynamically paginates rando
    - `ArduinoJson`
 3. Update your Wi-Fi credentials (`ssid`, `password`) and your free Groq API key (`apiKey`) in the code.
 
+## Wiring Diagram
+<img width="826" height="598" alt="image" src="https://github.com/user-attachments/assets/daf23b09-d6e0-4136-89e9-86758fe7f988" />
+
+
 ## Run
 1. Select your ESP32 board and correct COM port in the Arduino IDE.
 2. Compile and upload the sketch to your ESP32.
