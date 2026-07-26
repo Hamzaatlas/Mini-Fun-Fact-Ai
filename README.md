@@ -1,4 +1,4 @@
-# ESP32-AI-Fun-Fact-Button 🤖🪐
+# ESP32-AI-Fun-Fact-Button 🤖
 
 An ESP32-powered hardware companion that fetches and dynamically paginates random AI fun facts, quotes, and stories from the Groq API onto an OLED display at the press of a button.
 
